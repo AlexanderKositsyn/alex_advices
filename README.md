@@ -33,7 +33,8 @@
   -moz-osx-font-smoothing: grayscale;   
 
 ## Лендинг
-* ставить min-height по макету, чтобы если уменьштся viewport то секция сжиматься не будет при viewport меньше 650px
+* ставить min-height по макету(для каждого макета по ширинам laptop mobile tablet и т д ), чтобы если уменьштся viewport то секция сжиматься не будет при viewport меньше 650px    
+* для того чтобы background не урезался во время уменьшения viewport можно для каждого разрешения вырезать свой отдельный background    
 
 
 ## SVG   
